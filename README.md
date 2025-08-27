@@ -27,12 +27,6 @@ Built along with these fine folk:
 
 
 > [!WARNING]
-
-
 > This code is most likely not working, database is not active and other similar things.
-
-
 > As such it should definitely NOT be thought of as production ready code.
-
-
 > I've got it on my Github mostly for archival purposes.
